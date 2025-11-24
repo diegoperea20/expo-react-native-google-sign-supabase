@@ -5,7 +5,7 @@ very simple for learning purposes with Nativewind (Tailwind CSS) and Supabase
 
 google sign library web [WEB react-native-google-signin](https://react-native-google-signin.github.io/)
 
-
+Central project  [expo-react-native-google-signin-simple](https://github.com/diegoperea20/expo-react-native-google-signin-simple)
 
 <p align="center">
   <img src="README-images/homeindexrn.png" alt="home">
